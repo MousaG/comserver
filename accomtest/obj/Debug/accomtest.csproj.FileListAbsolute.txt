@@ -1,0 +1,15 @@
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\accomtest.exe.config
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\accomtest.exe
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\accomtest.pdb
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\EntityFramework.dll
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\EntityFramework.xml
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.Form1.resources
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.Properties.Resources.resources
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.csproj.GenerateResource.Cache
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.exe
+C:\Users\mgolmiri\Documents\Visual Studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.pdb
+C:\Users\mgolmiri\documents\visual studio 2015\Projects\accomtest\accomtest\obj\Debug\accomtest.csprojResolveAssemblyReference.cache

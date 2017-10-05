@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1037ee09e1d4f2887a6e93fefdebf9c" Name="Diagram1" ZoomLevel="59">
+        <EntityTypeShape EntityType="AndisheDBModel.CalcLawTbl" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcRateCodeTbl" Width="1.5" PointX="7.5" PointY="6.625" IsExpanded="false" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcRateTbl" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="false" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcTariffTbl" Width="1.5" PointX="5.25" PointY="15.25" IsExpanded="false" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcTarrifHeaderTbl" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcTempratureRegionTbl" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AndisheDBModel.TVNNEWForm30View" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="false" />
+        <AssociationConnector Association="AndisheDBModel.FK_CalcTarrifHeaderTbl_CalculationLawTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="AndisheDBModel.FK_CalcRateCodeTbl_CalcRateTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="AndisheDBModel.FK_CalcRateTbl_CalcTarrifHeaderTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="AndisheDBModel.FK_CalcRateTbl_CalcTempratureRegionTbl" ManuallyRouted="false" />
+        <AssociationConnector Association="AndisheDBModel.FK_CalcTariffTbl_CalcTarrifHeaderTbl" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="AndisheDBModel.CalcRgnCityByTrfTempView" Width="1.5" PointX="2.75" PointY="11.75" />
+        <EntityTypeShape EntityType="AndisheDBModel.TVNF50FormView" Width="1.5" PointX="14.375" PointY="0.75" />
+        <EntityTypeShape EntityType="AndisheDBModel.TvnCounterView" Width="1.5" PointX="14.375" PointY="6.75" IsExpanded="false" />
+        <EntityTypeShape EntityType="AndisheDBModel.TVNBranchDataView" Width="1.5" PointX="7.375" PointY="12.75" IsExpanded="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
